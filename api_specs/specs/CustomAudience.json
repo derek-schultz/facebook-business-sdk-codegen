@@ -89,7 +89,7 @@
         {
             "method": "DELETE",
             "endpoint": "users",
-            "return": "Object",
+            "return": "CustomAudience",
             "params": [
                 {
                     "name": "namespace",
